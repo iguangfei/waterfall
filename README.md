@@ -5,6 +5,6 @@
 ###通过JSON模拟后台数据。
 
 
-[javascript版本](https://limingyang2012.github.io/waterfall/javascript版本)
+[javascript版本](https://iguangfei.github.io/waterfall/javascript版本/)
 
-[jQuery版本](https://limingyang2012.github.io/waterfall/jQuery版本)
+[jQuery版本](https://iguangfei.github.io/waterfall/jQuery版本/)
